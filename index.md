@@ -8,7 +8,7 @@ SQL is a very common lanuage used in many relational databases like MySQL, Oracl
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/SQL_Training)
 
-<center><img src="portfolio\assets\img.jpg"/></center>
+<center><img src="assets\img\SQL_Training_logo.JPG"/></center>
 
 # Header 1
 
