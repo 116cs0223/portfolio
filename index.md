@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Software Development Portfolio
 ---
-## Machine learning
+## Training and Learning
 
 ### SQL-Training
 
