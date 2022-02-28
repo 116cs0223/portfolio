@@ -8,6 +8,8 @@ SQL is a very common lanuage used in many relational databases like MySQL, Oracl
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/SQL_Training)
 
+<center><img src="portfolio\assets\img.jpg"/></center>
+
 # Header 1
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
