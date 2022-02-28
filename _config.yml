@@ -1,6 +1,21 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Subham Sahoo </p>
+logo: /assets/img/Myself.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/subham-sahoo-650871157/">LinkedIn</a> |
+  <a href="https://github.com/116cs0223">GitHub</a>
+  
+  <br>   
+  I'm working on Innovative Business Solution team of SAP Labs India for last 1 and half years.
+  My work contributions are mostly on J2EE, Spring, Database and Cloud Platform.
+  Currently I am pursing AI and ML PG in IIIT, Banglore.
+  Previously, I had done my BTech. in computer science in NIT Rourkela from 2016 to 2020.
+  I am interested in working in Cloud, ML and AI domain.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
