@@ -6,7 +6,7 @@
 
 SQL is a very common lanuage used in many relational databases like MySQL, Oracle, Microsoft SQL, Ingress and many more. There should be a consolidated learning for freshers to understand the syntax of this language. This training repository is planned to ramp-up freshers who are just starting their IT carrier or for leareers who are interested in knowing this language.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/SQL_Training)
 
 # Header 1
 
