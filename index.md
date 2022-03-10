@@ -1,17 +1,7 @@
 # Software Development Portfolio
 ---
-## Training and Learning
+## Machine Learning and Artificial Intelligence
 
-### SQL-Training
-
-SQL is a very common lanuage used in many relational databases like MySQL, Oracle, Microsoft SQL, Ingress and many more. There should be a consolidated learning for freshers to understand the syntax of this language. This training repository is planned to ramp-up freshers who are just starting their IT carrier or for leareers who are interested in knowing this language.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/SQL_Training)
-
-<center><img src="assets\img\SQL_Training_logo.JPG"/></center>
-
-
----
 ### Lending-Club-Data-Analysis-Case-Study
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/LendingClubCaseStudy)
@@ -23,6 +13,20 @@ The company can further utilise this knowledge of driving factors behind loan
 defaults for its portfolio and risk assessment.
 
 <center><img src="assets\img\Lending_Club_Data_Analysis.png"/></center>
+
+---
+## Training and Learning
+
+### SQL-Training
+
+SQL is a very common lanuage used in many relational databases like MySQL, Oracle, Microsoft SQL, Ingress and many more. There should be a consolidated learning for freshers to understand the syntax of this language. This training repository is planned to ramp-up freshers who are just starting their IT carrier or for leareers who are interested in knowing this language.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/SQL_Training)
+
+<center><img src="assets\img\SQL_Training_logo.JPG"/></center>
+
+
+
 
 <!---
 - level 1 item
