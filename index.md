@@ -10,6 +10,20 @@ SQL is a very common lanuage used in many relational databases like MySQL, Oracl
 
 <center><img src="assets\img\SQL_Training_logo.JPG"/></center>
 
+
+---
+### Lending-Club-Data-Analysis-Case-Study
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/LendingClubCaseStudy)
+
+The objective of this project is to analyze information about past loan applicants of a Consumer 
+Finance Company, using EDA to identify patterns which indicate if a person is 
+likely to default. 
+The company can further utilise this knowledge of driving factors behind loan 
+defaults for its portfolio and risk assessment.
+
+<center><img src="assets\img\Lending_Club_Data_Analysis.png"/></center>
+
 <!---
 - level 1 item
   - level 2 item
