@@ -8,9 +8,13 @@
 
 The objective of this project is leverage the power of supervised machine learning capacity of 
 Artificial Neural Network to gain human level intelligenece to solve real world problem. In this project, I have taken
-the popular realitvely simple game Tic-Tac-Toe which usually is played between 2 human players.
-In this game, we have planned to create the dataset by numerous game playing and then feed this to ANN using which it be trained.
-Finally, the ANN will play the game against a human brain.
+the popular yet realitvely simple game Tic-Tac-Toe which is typically played between 2 human players.
+In this game, we have planned 
+1. To create the game using python tkinter library
+2. to play games manually many times 
+3. to create a dataset with high quality from it
+4. Then to feed this to train ANN brain
+5. In the end, to let the trained ANN play gainst a human brain
 
 <center><img src="assets\img\Tic-Tac-Toe.png"/></center>
 
