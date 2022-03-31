@@ -6,7 +6,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/116cs0223/Tic-tac-toe-Using-ANN)
 
-The objective of this project is leverage the power of supervised machine learning capacity of 
+The objective of this project is to leverage the power of supervised machine learning capacity of 
 Artificial Neural Network to gain human level intelligenece to solve real world problem. In this project, I have taken
 the popular yet realitvely simple game Tic-Tac-Toe which is typically played between 2 human players.
 In this game, we have planned 
